@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Rashmi Ranjan Padhi",
+    "dob": "02-02-1996",
+    "height": "5'11\"",
+    "city": "Bhadrak",
+    "state": "Odisha"
+  },
+  {
+    "name": "Barsha Nayak",
+    "dob": "01-01-1996",
+    "height": "5'3\"",
+    "city": "Bhubaneswar",
+    "state": "Odisha"
+  },
+  {
+    "name": "Rahul",
+    "dob": "01-01-1994",
+    "height": "5'7\"",
+    "city": "Bangalore",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Prerna",
+    "dob": "01-01-1997",
+    "height": "5'4\"",
+    "city": "Noida",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Rafiya",
+    "dob": "01-01-1990",
+    "height": "5'5\"",
+    "city": "Mysore",
+    "state": "Karnataka"
+  }
+]
